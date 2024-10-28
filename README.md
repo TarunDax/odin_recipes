@@ -1,1 +1,1 @@
-Creating odin recipe website using HTMl which studied in odin project
+Creating odin recipe website using HTML which studied in odin project
