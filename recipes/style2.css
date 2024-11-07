@@ -1,0 +1,30 @@
+div{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    font-size: 40px;
+    background-color: gray;
+    
+}
+h3{
+    font-size: 25px;
+    color: gray;
+}
+
+p{
+    color: white;
+    font-size: 20px;
+}
+ul{
+    color: white;
+    font-size: 20px;
+}
+ol{
+    color:white;
+    font-size: 20px;
+}
+
+body{
+    background-color: black;
+}

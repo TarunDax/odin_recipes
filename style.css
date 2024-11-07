@@ -1,0 +1,23 @@
+#one{
+    background-color: gray;
+    font-size: 40px;
+}
+
+.list{
+    font-size: 25px;
+}
+
+li{
+    color: white;
+}
+a{
+    color: white;
+}
+div{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-image: url(Recipe.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
