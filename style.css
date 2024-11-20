@@ -1,10 +1,14 @@
 #one{
     background-color: gray;
     font-size: 40px;
+    text-align: center;
+    padding: 0.5px;
 }
 
 .list{
     font-size: 25px;
+    margin-top: 100px;
+    border: 3px solid white;
 }
 
 li{
@@ -20,4 +24,5 @@ body{
     background-image: url(Recipe.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    box-sizing: border-box;
 }
